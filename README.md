@@ -1,5 +1,6 @@
 # Graph Inference Data Valuation Framework
-This repository contains code for performing graph inference data valuation of Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation.
+![Inference_Data_Valuation_Poster_1](https://github.com/user-attachments/assets/4e598383-17fc-4754-846b-7e0a77039379)
+This repository contains code of Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation.
 
 ## Scripts Overview
 
